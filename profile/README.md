@@ -58,7 +58,7 @@
   <h3>OFFICIAL CHANNELS</h3>
   
   <a href="https://www.tesseractprotocol.xyz">
-    <img src="https://img.shields.io/badge/WEBSITE-www.tesseract--protocol.in-blue?style=flat-square&logo=google-chrome&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/WEBSITE-www.tesseractprotocol.xyz-blue?style=flat-square&logo=google-chrome&logoColor=white" height="35">
   </a>
   <a href="https://tessfi.gitbook.io/docs-tess">
     <img src="https://img.shields.io/badge/DOCS-GITBOOK_ARCHITECTURE-blue?style=flat-square&logo=gitbook&logoColor=white" height="35">
