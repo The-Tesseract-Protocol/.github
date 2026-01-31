@@ -1,16 +1,13 @@
 ![Tesseract](https://github.com/The-Tesseract-Protocol/.github/blob/main/profile/Tess-B-Banner.png)
 
 <div align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF?text=T" alt="Tesseract Logo" width="100" height="100" style="border-radius: 20px;">
-  
-  <h1 style="font-size: 30px; margin-top: 20px; margin-bottom: 10px;">TESSERACT PROTOCOL</h1>
   
   <p style="font-size: 18px; color: #666; font-style: italic;">
     Public Settlement. Private Operations.
   </p>
 
   <a href="https://stellar.org">
-    <img src="https://img.shields.io/badge/NETWORK-STELLAR_MAINNET-7023B0?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar">
+    <img src="https://img.shields.io/badge/NETWORK-STELLAR-7023B0?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar">
   </a>
   <a href="https://soroban.stellar.org">
     <img src="https://img.shields.io/badge/ENGINE-SOROBAN_RUST-EF5F3C?style=for-the-badge&logo=rust&logoColor=white" alt="Soroban">
@@ -28,27 +25,25 @@
 
   <br>
 
-  <code>✦ &nbsp; &nbsp; ━ &nbsp; &nbsp; ✦ &nbsp; &nbsp; ━ &nbsp; &nbsp; ✦</code>
-
   <br><br>
 </div>
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🏛️<br>Confidential Rail</h3>
+      <h3><br>Confidential Rail</h3>
       <p align="center">
         On-chain enforcement of custody and limits via Soroban contracts (`Pool`, `IDM`), with mathematically hidden recipient data.
       </p>
     </td>
     <td width="33%" align="center">
-      <h3>⚡<br>Batch Engine</h3>
+      <h3><br>Batch Engine</h3>
       <p align="center">
         Modified <b>SDP Backend</b> utilizing Channel Accounts to aggregate 100+ payments into single atomic transactions (~167 tx/s).
       </p>
     </td>
     <td width="33%" align="center">
-      <h3>🔐<br>Zero-Knowledge Audit</h3>
+      <h3><br>Zero-Knowledge Audit</h3>
       <p align="center">
         Client-side decryption dashboard. Auditors see everything, the network sees proofs, and our servers see nothing.
       </p>
@@ -62,10 +57,10 @@
 
   <h3>OFFICIAL CHANNELS</h3>
   
-  <a href="https://www.tesseract-protocol.in">
+  <a href="https://www.tesseractprotocol.xyz">
     <img src="https://img.shields.io/badge/WEBSITE-www.tesseract--protocol.in-blue?style=flat-square&logo=google-chrome&logoColor=white" height="35">
   </a>
-  <a href="https://abhinavs-organization-10.gitbook.io/the-tesseract-protocol">
+  <a href="https://tessfi.gitbook.io/docs-tess">
     <img src="https://img.shields.io/badge/DOCS-GITBOOK_ARCHITECTURE-blue?style=flat-square&logo=gitbook&logoColor=white" height="35">
   </a>
   <a href="https://github.com/The-Tesseract-Protocol">
@@ -75,7 +70,7 @@
   <br><br>
 
   <p style="color: #888; font-size: 12px;">
-    BUILT FOR THE STELLAR COMMUNITY FUND (SCF)
+    BUILT FOR THE INSTITUTIONS
   </p>
   
 </div>
