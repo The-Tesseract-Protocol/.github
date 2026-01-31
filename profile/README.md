@@ -39,7 +39,7 @@
     <td width="33%" align="center">
       <h3><br>Batch Engine</h3>
       <p align="center">
-        Modified <b>SDP Backend</b> utilizing Channel Accounts to aggregate 100+ payments into single atomic transactions (~167 tx/s).
+        Modified <b>SDP Backend</b> utilizing Channel Accounts and multp operation transactions to increase payment throughput.
       </p>
     </td>
     <td width="33%" align="center">
